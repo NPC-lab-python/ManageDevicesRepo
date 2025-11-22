@@ -10,10 +10,10 @@
   <ReleaseDate>2025-11-19</ReleaseDate>
   <Default>true</Default>
   <Essential>true</Essential>
-  <UpdateFile CompressedSize="20700866" OS="Any" UncompressedSize="70045736"/>
+  <UpdateFile CompressedSize="20700879" OS="Any" UncompressedSize="70045736"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>e11cd351338e72f87854355c9082b890f6793c11</SHA1>
+  <SHA1>3dcb6d0dc150fd03b34b91208b60879f659da19a</SHA1>
  </PackageUpdate>
- <SHA1>c90a26748af18a3752c8137d7b6de4aa1f3a71cd</SHA1>
- <MetadataName>2025-11-19-1836_meta.7z</MetadataName>
+ <SHA1>054720e83d4a00a6d5beb80968e32c8d5a85477c</SHA1>
+ <MetadataName>2025-11-22-1701_meta.7z</MetadataName>
 </Updates>
