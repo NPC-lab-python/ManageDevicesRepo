@@ -6,14 +6,14 @@
   <Name>com.npc.managedevices.client</Name>
   <DisplayName>ManageDevices</DisplayName>
   <Description>Application officielle de gestion des devices du NPC Lab</Description>
-  <Version>1.0.0</Version>
+  <Version>1.0.1</Version>
   <ReleaseDate>2025-11-19</ReleaseDate>
   <Default>true</Default>
   <Essential>true</Essential>
-  <UpdateFile CompressedSize="20802466" OS="Any" UncompressedSize="73156648"/>
+  <UpdateFile CompressedSize="20700623" OS="Any" UncompressedSize="70067240"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>83e0bb24d5bdd8f8c00affa36267bcbe57409de8</SHA1>
+  <SHA1>3f152e39476820b943e6a2268961741334c55c78</SHA1>
  </PackageUpdate>
- <SHA1>27e4420599bfe7815c609c6ffb466235bebcdf48</SHA1>
- <MetadataName>2025-12-03-1638_meta.7z</MetadataName>
+ <SHA1>649da40ed0ba5b05add764226f0817413f486588</SHA1>
+ <MetadataName>2025-12-03-1833_meta.7z</MetadataName>
 </Updates>
