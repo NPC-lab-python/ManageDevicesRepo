@@ -1,0 +1,19 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.npc.managedevices.client</Name>
+  <DisplayName>ManageDevices</DisplayName>
+  <Description>Application officielle de gestion des devices du NPC Lab</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2025-11-19</ReleaseDate>
+  <Default>true</Default>
+  <Essential>true</Essential>
+  <UpdateFile CompressedSize="20802467" OS="Any" UncompressedSize="73156648"/>
+  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>5a0c24cc5a19a1fb25cf6ead5ffd883f694c1c01</SHA1>
+ </PackageUpdate>
+ <SHA1>edeabb8ede7a5b35b5aa3e8020674762dc0e9651</SHA1>
+ <MetadataName>2025-12-03-1525_meta.7z</MetadataName>
+</Updates>
