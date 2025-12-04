@@ -10,10 +10,11 @@
   <ReleaseDate>2025-12-04</ReleaseDate>
   <Default>true</Default>
   <Essential>true</Essential>
-  <UpdateFile CompressedSize="20700622" OS="Any" UncompressedSize="70067240"/>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="20700624" OS="Any" UncompressedSize="70067240"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>153b025e262b2d4258c27f2351e8a0ba0236b3f1</SHA1>
+  <SHA1>d0b3e1ac6fd7f41f8c68a77083f67c0a2a9d8203</SHA1>
  </PackageUpdate>
- <SHA1>d6bc8b6b29bf722b74cee8fe8d693402761a7d20</SHA1>
- <MetadataName>2025-12-04-1703_meta.7z</MetadataName>
+ <SHA1>3b20f0009921c6a969a135e01eb4abfadc0125ed</SHA1>
+ <MetadataName>2025-12-04-2015_meta.7z</MetadataName>
 </Updates>
