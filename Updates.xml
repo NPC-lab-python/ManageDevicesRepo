@@ -7,14 +7,14 @@
   <DisplayName>ManageDevices</DisplayName>
   <Description>Application officielle de gestion des devices du NPC Lab</Description>
   <Version>3.1.1</Version>
-  <ReleaseDate>2026-03-05</ReleaseDate>
+  <ReleaseDate>2026-03-06</ReleaseDate>
   <Default>true</Default>
   <Essential>true</Essential>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="20858297" OS="Any" UncompressedSize="70624296"/>
+  <UpdateFile CompressedSize="20871231" OS="Any" UncompressedSize="70626344"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>c7f1aeae1f862c4a69f004f8723cfaf3dce11633</SHA1>
+  <SHA1>419262e68e7470a832071dc7d7f806bcc4ac18e6</SHA1>
  </PackageUpdate>
- <SHA1>86ffe4ef9804d5fcbbf0c31b1df1eae5c80b70e7</SHA1>
- <MetadataName>2026-03-05-1750_meta.7z</MetadataName>
+ <SHA1>1dd079f266ca55129487b83bc30041804011810e</SHA1>
+ <MetadataName>2026-03-06-1039_meta.7z</MetadataName>
 </Updates>
