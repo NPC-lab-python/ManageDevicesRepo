@@ -11,10 +11,10 @@
   <Default>true</Default>
   <Essential>true</Essential>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="23440873" OS="Any" UncompressedSize="79181425"/>
+  <UpdateFile CompressedSize="23442753" OS="Any" UncompressedSize="79181425"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>e36f316f7dc7c8ed057b43e1e7b3d5b2e6a64983</SHA1>
+  <SHA1>de193a8dd0e9501e20e36f8860fe2f33037fc7c4</SHA1>
  </PackageUpdate>
- <SHA1>ff29a5b35fbccd9e5575691c45e0933f7cc9c6ef</SHA1>
- <MetadataName>2026-10-27-1135_meta.7z</MetadataName>
+ <SHA1>c553e97ffaf9f11d2ec60a5874afbf71c9c18e81</SHA1>
+ <MetadataName>2026-10-27-1151_meta.7z</MetadataName>
 </Updates>
